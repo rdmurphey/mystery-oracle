@@ -74,7 +74,7 @@ def main():
         if not game.load_mystery():
             return
 
-    print(f"Welcome to the mystery: {game.mystery.get('title', 'Untitled Mystery')}")
+    print(f"Welcome to the mystery: {game.mystery.get('misdeed', 'Undefined Mystery')}")
 
     while True:
         command = input("Enter a command (clue/solution/twist/reset/quit): ").lower()
@@ -90,7 +90,7 @@ def main():
             game = MysteryGame()
             if not game.load_mystery():
                 return
-            print(f"New mystery loaded: {game.mystery.get('title', 'Untitled Mystery')}")
+            print(f"New mystery loaded: {game.mystery.get('misdeed', 'Undefined Mystery')}")
         elif command == 'quit':
             print("May all your rolls be 20!")
             break
