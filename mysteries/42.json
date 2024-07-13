@@ -1,0 +1,38 @@
+{
+    "misdeed": "Hunters and villagers in the forest near Svartå have been going missing, and some who return speak of a woman leading them astray.",
+    "solution": "The Vaesen is a wood wife. She can be banished by burning or cutting down the heart trees of the forest.",
+    "clues": [
+      {
+        "id": 1,
+        "description": "Hunters report seeing a beautiful woman with antlers in the forest."
+      },
+      {
+        "id": 2,
+        "description": "People who return from the forest are often disoriented and speak of being led astray."
+      },
+      {
+        "id": 3,
+        "description": "Strange animal behavior, with wolves and deer acting unusually tame or aggressive."
+      },
+      {
+        "id": 4,
+        "description": "A villager's child went missing and was found days later, unharmed but speaking of a lady in the trees."
+      },
+      {
+        "id": 5,
+        "description": "Marks of claws and antlers are found on trees in the forest."
+      },
+      {
+        "id": 6,
+        "description": "An old tale from the village speaks of a forest spirit that punishes those who harm the woods."
+      },
+      {
+        "id": 7,
+        "description": "Strange patterns of moss and leaves are found arranged in circles and symbols."
+      }
+    ],
+    "plotTwist": {
+      "description": "A local charcoal burner has fallen in love with the wood wife and is helping her lure people into the forest."
+    }
+  }
+  

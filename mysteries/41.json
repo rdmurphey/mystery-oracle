@@ -1,0 +1,34 @@
+{
+    "misdeed": "Several children and farmers have gone missing near the local brook, with only wet footprints and hoof prints leading to the water.",
+    "solution": "The Vaesen is a brook horse. It can be defeated by luring it out of the water and trapping it with iron shackles.",
+    "clues": [
+      {
+        "id": 1,
+        "description": "A farmer saw a magnificent horse near the brook, but it disappeared as he approached."
+      },
+      {
+        "id": 2,
+        "description": "Local children talk about a beautiful horse that invites them to ride it."
+      },
+      {
+        "id": 3,
+        "description": "Strange, horse-like neighing is heard at night near the brook."
+      },
+      {
+        "id": 4,
+        "description": "Footprints and hoof prints are found leading into the water but not out of it."
+      },
+      {
+        "id": 5,
+        "description": "A fisherman found strands of white hair caught in his net."
+      },
+      {
+        "id": 6,
+        "description": "A villager mentions a local legend about a horse that drowns those who try to ride it."
+      }
+    ],
+    "plotTwist": {
+      "description": "An old hermit by the brook knows how to trap the brook horse but demands a high price for the information."
+    }
+  }
+  

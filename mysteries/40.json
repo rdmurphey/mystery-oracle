@@ -1,0 +1,38 @@
+{
+    "misdeed": "The village of Vangså has been plagued by strange illnesses and odd behavior. Recently, the villagers were compelled to burn down a newly built factory.",
+    "solution": "The Vaesen is an ash tree wife. To destroy her, the ash tree she inhabits must be cut down or burned.",
+    "clues": [
+      {
+        "id": 1,
+        "description": "Local flora appears unusually lush and vibrant, despite the illnesses affecting the villagers."
+      },
+      {
+        "id": 2,
+        "description": "A villager mentions hearing a woman's voice whispering from an old ash tree at night."
+      },
+      {
+        "id": 3,
+        "description": "Several villagers report strange dreams involving a woman with green hair and bark-like skin."
+      },
+      {
+        "id": 4,
+        "description": "Marks resembling claw scratches are found on the ground near the old ash tree."
+      },
+      {
+        "id": 5,
+        "description": "The village healer notes that the illnesses began after a branch of the old ash tree was broken."
+      },
+      {
+        "id": 6,
+        "description": "An ancient local legend speaks of a spirit bound to an ash tree, demanding respect and offerings."
+      },
+      {
+        "id": 7,
+        "description": "A child’s drawing depicts a woman merging with a tree, surrounded by wilting plants."
+      }
+    ],
+    "plotTwist": {
+      "description": "A group of factory workers accidentally damaged the tree while clearing the land, angering the Vaesen."
+    }
+  }
+  
