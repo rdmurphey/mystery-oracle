@@ -1,0 +1,30 @@
+{
+    "title": "The Vanishing Heirloom",
+    "solution": "The family butler orchestrated the theft to pay off gambling debts, but accidentally misplaced the heirloom in the process.",
+    "clues": [
+      {
+        "id": 1,
+        "description": "A window in the study was found unlocked, but showed no signs of forced entry.",
+        "location": "Manor study"
+      },
+      {
+        "id": 2,
+        "description": "The security camera footage for the night of the theft is missing 30 minutes.",
+        "location": "Security room"
+      },
+      {
+        "id": 3,
+        "description": "A note demanding money was found in the butler's quarters, signed by a local loan shark.",
+        "location": "Servant's wing"
+      },
+      {
+        "id": 4,
+        "description": "The family dog, usually aggressive towards strangers, was oddly calm on the night of the theft.",
+        "location": "Main hall"
+      }
+    ],
+    "plotTwist": {
+      "description": "The heirloom is discovered in the manor's old dumbwaiter shaft",
+      "revealTrigger": "Investigators hear an odd echoing sound when questioning staff near the kitchen."
+    }
+  }
