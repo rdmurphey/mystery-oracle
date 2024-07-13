@@ -1,0 +1,33 @@
+{
+    "misdeed": "A string of unsettling occurrences plagues a small village nestled in the mountains: sudden fits of madness, strange compulsions, and whispers of deals made with a whispering entity drive fear into the hearts of the inhabitants.",
+    "solution": "The Vaesen is a Spertus, and it can only be removed by a ritualistic sacrifice of a dozen souls or by the afflicted devoting their life to the Church.",
+    "clues": [
+      {
+        "id": 1,
+        "description": "The afflicted individuals exhibit unusual skills or talents, but at a terrible price, their behavior becoming erratic and unpredictable."
+      },
+      {
+        "id": 2,
+        "description": "A peculiar antique snuff box, rumored to grant wishes, appears to be at the center of the disturbances, changing hands with alarming frequency."
+      },
+      {
+        "id": 3,
+        "description": "Those who come into contact with the snuff box describe feeling a strange warmth emanating from it, followed by a whispering voice that promises power and fulfillment."
+      },
+      {
+        "id": 4,
+        "description": "The villagers find strange symbols drawn on the doorsteps of those who have been afflicted, reminiscent of ancient runes or sigils."
+      },
+      {
+        "id": 5,
+        "description": "A local priest notices that the holy water hisses and steams when brought near those affected by the entity, their presence seemingly anathema to the sacred."
+      },
+      {
+        "id": 6,
+        "description": "An ancient text, discovered hidden in the church archives, speaks of a demonic entity that grants favors in exchange for souls, its influence spreading like a disease through a community."
+      }
+    ],
+    "plotTwist": {
+      "description": "The village outcast, seeking acceptance and belonging, has unwittingly become the Vaesen’s host, its power amplifying his loneliness and desire for connection."
+    }
+  }

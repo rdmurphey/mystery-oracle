@@ -1,0 +1,33 @@
+{
+    "misdeed": "A sense of unease has settled over a grand old manor. Objects move inexplicably, whispers echo in empty hallways, and a bone-chilling cold seeps through the house, even in the heart of summer. Residents report seeing a gaunt, sorrowful figure drifting through the halls.",
+    "solution": "The Vaesen is a Ghost and can only find peace and move on if its unfinished business is resolved.",
+    "clues": [
+      {
+        "id": 1,
+        "description": "The temperature plummets in certain rooms, often accompanied by a feeling of intense sadness or regret."
+      },
+      {
+        "id": 2,
+        "description": "Residents hear their names whispered, though no one is present. The voice is always filled with a deep, lingering sorrow."
+      },
+      {
+        "id": 3,
+        "description": "Objects related to a specific past resident, perhaps a hairbrush, a locket, or a favorite book, are frequently moved or disturbed."
+      },
+      {
+        "id": 4,
+        "description": "An old diary or letters reveal a past tragedy connected to the manor: a broken heart, a betrayal, or an unfulfilled promise."
+      },
+      {
+        "id": 5,
+        "description": "Candle flames flicker and turn blue in the presence of the ghostly figure, casting an unsettling chill over the room."
+      },
+      {
+        "id": 6,
+        "description": "An antique mirror, said to reflect those who have passed beyond, reveals a fleeting glimpse of the gaunt, sorrowful figure."
+      }
+    ],
+    "plotTwist": {
+      "description": "The manor’s new owner is a descendant of the ghost, unaware of their shared history or the reason for the spirit's unrest."
+    }
+  }

@@ -1,0 +1,33 @@
+{
+    "misdeed": "Terror grips a coastal community as their ships begin disappearing into the depths, dragged down by an unseen force. The few survivors speak of a colossal shape beneath the waves, its eyes glowing with an ancient, malevolent intelligence.",
+    "solution": "The Vaesen is a Sea Serpent and can be destroyed by tricking it into biting its own tail, causing it to sink to the bottom of the sea and dissolve into sludge.",
+    "clues": [
+      {
+        "id": 1,
+        "description": "The disappearances occur in an area known for its treacherous currents and unpredictable weather, but the survivors insist it was something far more sinister."
+      },
+      {
+        "id": 2,
+        "description": "Fishermen report their nets being torn to shreds, pulled down by an immense weight, and coming up empty."
+      },
+      {
+        "id": 3,
+        "description": "A single, barnacle-encrusted ship's figurehead washes ashore, its face contorted in a silent scream, its eyes scratched out as if by massive claws."
+      },
+      {
+        "id": 4,
+        "description": "Local legends speak of a monstrous sea serpent, guardian of the deep, that demands respect and punishes those who dare to plunder its domain."
+      },
+      {
+        "id": 5,
+        "description": "A cartographer discovers a series of ancient markings on a centuries-old map, indicating the presence of a submerged island chain and a warning to avoid the area at all costs."
+      },
+      {
+        "id": 6,
+        "description": "A deep-sea diver, exploring the wreckage of a sunken ship, claims to have seen a colossal shape moving in the depths, its scales shimmering like moonlight on water."
+      }
+    ],
+    "plotTwist": {
+      "description": "A secretive group of smugglers, using the treacherous waters to hide their illicit cargo, has inadvertently angered the Vaesen by dumping their refuse into its territory."
+    }
+  }

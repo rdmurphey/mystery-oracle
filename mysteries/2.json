@@ -1,0 +1,33 @@
+{
+    "misdeed": "Travelers passing near a remote lake have gone missing. Their belongings are often found scattered by the roadside, but their bodies are never recovered.",
+    "solution": "The Vaesen is a Brook Horse and can be banished by riding it across plowed ground in the shape of a sun cross or leading it into a stable marked with six Christian symbols.",
+    "clues": [
+      {
+        "id": 1,
+        "description": "Witnesses report seeing a magnificent white stallion with a flowing mane near the lake shortly before the disappearances began."
+      },
+      {
+        "id": 2,
+        "description": "The hoofprints discovered near the site of the missing persons' belongings are abnormally large and seem to vanish into thin air."
+      },
+      {
+        "id": 3,
+        "description": "Local legends speak of a water spirit that takes the form of a horse and lures unsuspecting travelers to their deaths."
+      },
+      {
+        "id": 4,
+        "description": "Fishermen report an unsettling silence from the lake. The once abundant fish have seemingly vanished."
+      },
+      {
+        "id": 5,
+        "description": "A child's toy horse is found among the belongings of one of the missing persons. Its eyes are a piercing blue, unlike any horse in the area."
+      },
+      {
+        "id": 6,
+        "description": "The water of the lake appears unusually still and dark, as if something lurks beneath its surface."
+      }
+    ],
+    "plotTwist": {
+      "description": "A local stablehand, spurned by a love interest who went missing, is secretly caring for the Vaesen and using it to enact revenge on those he deems responsible for his heartbreak."
+    }
+  }

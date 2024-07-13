@@ -1,0 +1,33 @@
+{
+    "misdeed": "A series of disturbing incidents has plagued the local church.  Hymnals are found ripped to shreds, candles extinguish with a hiss, and a pervasive feeling of dread hangs over the sanctuary.  Parishioners whisper of a demonic presence lurking within the hallowed halls.",
+    "solution": "The Vaesen is a Church Grim and can be destroyed by finding its remains buried within the church walls, breaking them open, and burning the carcass.",
+    "clues": [
+      {
+        "id": 1,
+        "description": "The disturbances are always worse during religious ceremonies, as if mocking the sanctity of the rituals."
+      },
+      {
+        "id": 2,
+        "description": "A faint, sulfurous odor clings to the air, particularly near the altar."
+      },
+      {
+        "id": 3,
+        "description": "A local boy claims to have seen a large, black dog with glowing red eyes watching him from the shadows beneath the choir loft."
+      },
+      {
+        "id": 4,
+        "description": "An old, forgotten crypt beneath the church is discovered, containing the skeletal remains of an animal buried with strange rituals and offerings."
+      },
+      {
+        "id": 5,
+        "description": "The church's bell begins to toll at odd hours, seemingly of its own accord."
+      },
+      {
+        "id": 6,
+        "description": "The priest notices that the communion wine tastes sour, as if tainted by an unseen force."
+      }
+    ],
+    "plotTwist": {
+      "description": "A disgruntled former altar boy, harboring resentment towards the church, unknowingly awakened the Vaesen while attempting to vandalize the sanctuary."
+    }
+  }

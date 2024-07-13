@@ -1,0 +1,33 @@
+{
+    "misdeed": "People are disappearing from a village situated near a lake, last seen wandering towards the water's edge as if in a trance. Their bodies are never recovered, but strange music is sometimes heard drifting across the water at night.",
+    "solution": "The Vaesen is the Neck and can be banished by luring him to a place surrounded by Christian symbols and iron.",
+    "clues": [
+      {
+        "id": 1,
+        "description": "Witnesses describe seeing a solitary figure playing a haunting melody on a flute or fiddle near the lake’s edge. He vanishes when approached."
+      },
+      {
+        "id": 2,
+        "description": "Local legends speak of a water spirit who lures people to their deaths with his enchanting music."
+      },
+      {
+        "id": 3,
+        "description": "A strange, alluring melody lingers in the air near the lake, even when no one is playing an instrument."
+      },
+      {
+        "id": 4,
+        "description": "A silver button, engraved with a musical note, is found near the spot where one of the victims was last seen."
+      },
+      {
+        "id": 5,
+        "description": "The water of the lake seems to ripple and dance, even when there is no wind."
+      },
+      {
+        "id": 6,
+        "description": "A fisherman claims to have pulled a strange, three-eyed fish from the lake, but it slipped from his net and disappeared back into the depths."
+      }
+    ],
+    "plotTwist": {
+      "description": "The local tavern owner, seeking to drum up business, has made a deal with the Vaesen for a song that will draw people to his establishment, unaware of the true cost."
+    }
+  }

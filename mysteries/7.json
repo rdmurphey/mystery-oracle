@@ -1,0 +1,33 @@
+{
+    "misdeed": "Men in a remote village are being struck by a mysterious ailment, leaving them weak, breathless, and prone to horrific nightmares. Some have even died in their sleep, their faces contorted in terror.",
+    "solution": "The Vaesen is a Mare and can be defeated by someone loudly declaring her a Mare at the moment she transforms back into a human.",
+    "clues": [
+      {
+        "id": 1,
+        "description": "The victims all describe the same dream: a shadowy figure with long, dark hair sitting on their chest, stealing their breath."
+      },
+      {
+        "id": 2,
+        "description": "The afflicted men are often found drenched in sweat, their sheets in disarray, as if they struggled violently in their sleep."
+      },
+      {
+        "id": 3,
+        "description": "Local folklore whispers of a creature that preys on men at night, feeding on their life force while they sleep."
+      },
+      {
+        "id": 4,
+        "description": "A strange, oily residue is found on the victims' chests, smelling faintly of wildflowers and decay."
+      },
+      {
+        "id": 5,
+        "description": "The attacks seem to coincide with the full moon, suggesting a connection to the lunar cycle."
+      },
+      {
+        "id": 6,
+        "description": "Horses in the village stables are found sweating and agitated in the mornings, their manes tangled and knotted."
+      }
+    ],
+    "plotTwist": {
+      "description": "The village midwife, heartbroken after the death of her own child, is unknowingly afflicted by the Vaesen and seeks solace in the company of the men she visits."
+    }
+  }

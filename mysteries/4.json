@@ -1,0 +1,33 @@
+{
+    "misdeed": "The inhabitants of a remote village are plagued by vivid nightmares and strange illnesses. Their livestock are born deformed, and crops fail. A pervasive sense of dread hangs over the community.",
+    "solution": "The Vaesen are Fairies and can be driven away by finding their magical paths and walking them while ringing a church bell and sprinkling holy water.",
+    "clues": [
+      {
+        "id": 1,
+        "description": "Villagers report seeing flickering lights and hearing ethereal music coming from the nearby woods at night."
+      },
+      {
+        "id": 2,
+        "description": "Children speak of tiny, winged creatures that whisper in their ears while they sleep, telling them secrets and lies."
+      },
+      {
+        "id": 3,
+        "description": "Milk curdles overnight, and food spoils at an alarming rate, as if tainted by an unseen force."
+      },
+      {
+        "id": 4,
+        "description": "Local legends speak of a hidden glade deep within the forest where fairies dance under the moonlight."
+      },
+      {
+        "id": 5,
+        "description": "A strange, sweet-smelling dust is found sprinkled on the doorsteps of the afflicted villagers."
+      },
+      {
+        "id": 6,
+        "description": "Mushrooms grow in a perfect circle in the village center, their caps glowing with a faint, eerie light."
+      }
+    ],
+    "plotTwist": {
+      "description": "A young boy, ostracized by the village children, has befriended the Vaesen and is unknowingly aiding them in their mischief."
+    }
+  }

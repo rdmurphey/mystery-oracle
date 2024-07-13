@@ -1,0 +1,33 @@
+{
+    "misdeed": "Hunters and woodcutters are disappearing in the forest.  Some return, babbling and insane, claiming to have encountered a being of unimaginable beauty and terror.",
+    "solution": "The Vaesen is a Wood Wife and can be appeased with gifts of food or valuables, driven away by burning or cutting down the trees at the heart of the forest, or tricked by exploiting her weakness to those who turn their coats inside out.",
+    "clues": [
+      {
+        "id": 1,
+        "description": "Witnesses describe seeing a woman of unearthly beauty deep within the forest, her features shifting between human and animal."
+      },
+      {
+        "id": 2,
+        "description": "The forest itself seems to react to the presence of outsiders, the trees creaking and groaning, the animals watching with unsettling intensity."
+      },
+      {
+        "id": 3,
+        "description": "Local folklore speaks of a Wood Wife, a powerful being who guards the forest and its inhabitants, punishing those who disrespect its sanctity."
+      },
+      {
+        "id": 4,
+        "description": "A hunter's axe is found abandoned, the blade twisted and broken as if by unnatural force."
+      },
+      {
+        "id": 5,
+        "description": "The air is heavy with the scent of pine needles, damp earth, and a cloying sweetness that seems to cling to the back of the throat."
+      },
+      {
+        "id": 6,
+        "description": "Strange symbols, carved into the bark of the trees, mark a path deeper into the forest, towards a place where no sane person would willingly tread."
+      }
+    ],
+    "plotTwist": {
+      "description": "A young woman, ostracized by the villagers and seeking solace in the wilderness, has formed a bond with the Vaesen, becoming its protector and confidante."
+    }
+  }

@@ -1,0 +1,33 @@
+{
+    "misdeed": "A series of accidents and misfortunes has plagued a lakeside village, culminating in the disappearance of a young musician. The villagers whisper of a haunting melody that lures people to the lake, never to return.",
+    "solution": "The Vaesen is the Neck and can be banished by luring him to a place surrounded by Christian symbols and iron.",
+    "clues": [
+      {
+        "id": 1,
+        "description": "The accidents often involve water: boats capsizing, people falling into wells, and even an unfortunate incident with a bathhouse."
+      },
+      {
+        "id": 2,
+        "description": "The villagers report hearing a beautiful, yet unsettling melody drifting across the lake, particularly at night."
+      },
+      {
+        "id": 3,
+        "description": "Fish, once plentiful in the lake, have become scarce, and those caught are often deformed or bear strange markings."
+      },
+      {
+        "id": 4,
+        "description": "A silver locket, engraved with a musical note and containing a lock of the missing musician's hair, is found by the lake’s edge."
+      },
+      {
+        "id": 5,
+        "description": "Local legends speak of a water spirit who plays a silver flute, luring those who hear its music to a watery grave."
+      },
+      {
+        "id": 6,
+        "description": "An old fisherman claims to have seen a figure with glowing eyes and webbed fingers playing a flute beneath the surface of the lake."
+      }
+    ],
+    "plotTwist": {
+      "description": "A grieving mother, seeking to reunite with her drowned child, unknowingly made a deal with the Vaesen, offering her voice in exchange for a glimpse of her lost son."
+    }
+  }

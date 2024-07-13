@@ -1,0 +1,33 @@
+{
+    "misdeed": "A sense of unease has fallen over a village bordering an ancient, sprawling forest.  Hunters return empty-handed and shaken, speaking of being watched, and children whisper of a beautiful woman with eyes like moss who wanders the woods.",
+    "solution": "The Vaesen is a Wood Wife and can be appeased with gifts of food or valuables, driven away by burning or cutting down the trees at the heart of the forest, or tricked by exploiting her weakness to those who turn their coats inside out.",
+    "clues": [
+      {
+        "id": 1,
+        "description": "The forest, once teeming with game, falls strangely silent, the animals seeming to avoid the area."
+      },
+      {
+        "id": 2,
+        "description": "Hunters find their traps sprung and their snares broken, but no animal has been caught."
+      },
+      {
+        "id": 3,
+        "description": "A strange mist descends upon the forest at odd hours, obscuring the paths and disorienting those who enter."
+      },
+      {
+        "id": 4,
+        "description": "Local legends speak of a Wood Wife, a powerful being who guards the forest, protecting its creatures and punishing those who disrespect its sanctity."
+      },
+      {
+        "id": 5,
+        "description": "A woodcutter claims to have seen a woman with skin like bark and hair adorned with wildflowers, watching him from behind a thicket of trees."
+      },
+      {
+        "id": 6,
+        "description": "The villagers discover a ring of mushrooms growing in an unnatural circle deep within the forest, their caps glowing with a faint, ethereal light."
+      }
+    ],
+    "plotTwist": {
+      "description": "The village healer, seeking solace and guidance from the natural world, has unwittingly formed a bond with the Vaesen, her desire to protect the forest blinding her to the creature's darker nature."
+    }
+  }

@@ -1,0 +1,33 @@
+{
+    "misdeed": "Fishermen in a coastal village are reporting increasingly strange catches. Their nets are filled with bizarre, deformed fish, their boats are rocked by unseen forces, and some claim to hear a haunting melody drifting across the waves.",
+    "solution": "The Vaesen is a Mermaid and can be placated with offerings of trinkets and treasures or driven away by the presence of a married man wearing his wedding ring.",
+    "clues": [
+      {
+        "id": 1,
+        "description": "The deformed fish bear strange markings on their scales, resembling ancient runes or symbols."
+      },
+      {
+        "id": 2,
+        "description": "The sea, usually teeming with life, grows eerily quiet on certain nights, the silence broken only by the sound of waves lapping against the hulls of boats."
+      },
+      {
+        "id": 3,
+        "description": "Local children report seeing a woman with shimmering scales and long, flowing hair swimming alongside their boats, but she disappears when adults are present."
+      },
+      {
+        "id": 4,
+        "description": "An old sailor’s tale speaks of a mermaid who lures men to watery graves with her beauty and enchanting voice."
+      },
+      {
+        "id": 5,
+        "description": "A fisherman claims to have pulled a comb made of bone and seaweed from his net, carved with intricate images of sea creatures."
+      },
+      {
+        "id": 6,
+        "description": "The haunting melody seems to emanate from a cluster of rocks just offshore, a place shrouded in mist and local superstition."
+      }
+    ],
+    "plotTwist": {
+      "description": "A young woman, abandoned at the altar by her sailor lover, has unknowingly formed a pact with the Vaesen, offering her broken heart in exchange for power over the sea."
+    }
+  }

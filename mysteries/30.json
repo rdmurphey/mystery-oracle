@@ -1,0 +1,33 @@
+{
+    "misdeed": "A wave of despair has gripped a small village nestled in a mist-shrouded valley.  People report hearing the mournful cries of a child echoing through the night, and a palpable sense of dread hangs heavy in the air.",
+    "solution": "The Vaesen is a Myling and can be put to rest by finding its body, burying it in consecrated ground, and giving it someone else’s name.",
+    "clues": [
+      {
+        "id": 1,
+        "description": "The cries seem to emanate from the vicinity of the village graveyard, particularly after a fresh grave has been dug."
+      },
+      {
+        "id": 2,
+        "description": "Villagers report seeing a shadowy figure, small and indistinct, flitting through the graveyard at dusk."
+      },
+      {
+        "id": 3,
+        "description": "The village dogs whine and refuse to enter the graveyard, their fur bristling with fear."
+      },
+      {
+        "id": 4,
+        "description": "An old woman recounts a local legend of a young mother who, driven mad by grief, took her own child's life and buried it in unconsecrated ground."
+      },
+      {
+        "id": 5,
+        "description": "A small, crudely stitched doll is found abandoned on the steps of the village church, its button eyes seeming to stare accusingly."
+      },
+      {
+        "id": 6,
+        "description": "The villagers discover a hidden alcove in the graveyard wall, containing a pile of tiny bones and a tattered scrap of a child's clothing."
+      }
+    ],
+    "plotTwist": {
+      "description": "The village priest, haunted by a past sin involving an unbaptized child, unwittingly awakened the Vaesen while attempting to atone for his actions."
+    }
+  }

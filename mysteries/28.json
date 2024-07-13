@@ -1,0 +1,33 @@
+{
+    "misdeed": "A string of unsettling incidents has befallen the men of a small village.  They wake with a start in the dead of night, their hearts pounding, their bodies slick with sweat, and their minds filled with images of a terrifying, shadowy figure.",
+    "solution": "The Vaesen is a Mare and can be defeated by someone loudly declaring her a Mare at the moment she transforms back into a human.",
+    "clues": [
+      {
+        "id": 1,
+        "description": "The victims all complain of feeling suffocated, as if a weight pressed down on their chest while they slept."
+      },
+      {
+        "id": 2,
+        "description": "The attacks seem to coincide with the full moon, waning as the lunar cycle progresses."
+      },
+      {
+        "id": 3,
+        "description": "Some men report seeing a fleeting glimpse of a beautiful woman with long, dark hair just before waking in terror."
+      },
+      {
+        "id": 4,
+        "description": "The local wise woman discovers traces of an unknown herb in the victims' bedrooms, one said to induce vivid dreams and sleep paralysis."
+      },
+      {
+        "id": 5,
+        "description": "The village horses are found in a state of agitation, their manes tangled, their eyes wide with terror."
+      },
+      {
+        "id": 6,
+        "description": "A recently unearthed grave is discovered to be empty, the coffin containing only a shroud and a lock of long, black hair."
+      }
+    ],
+    "plotTwist": {
+      "description": "A young widow, driven mad by grief and loneliness, unknowingly embodies the Vaesen, her sorrow and longing manifesting as a terrifying, nocturnal predator."
+    }
+  }

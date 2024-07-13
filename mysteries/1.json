@@ -1,0 +1,37 @@
+{
+    "misdeed": "Crops have begun to wither and die in the fields surrounding a small village, and livestock refuse to graze in the pastures. The air is thick with the smell of decay and fear.",
+    "solution": "The Vaesen is an Ash Tree Wife and can be destroyed by burning or cutting down the ash tree it inhabits.",
+    "clues": [
+      {
+        "id": 1,
+        "description": "The villagers mention a large, ancient ash tree at the edge of the blighted area that has always been regarded with superstition."
+      },
+      {
+        "id": 2,
+        "description": "A local woodsman claims to have seen a beautiful woman with bark-like skin and long, flowing green hair near the ash tree, but she vanished when he approached."
+      },
+      {
+        "id": 3,
+        "description": "The soil around the ash tree is unnaturally fertile, despite the blight affecting the surrounding land. Strange flowers bloom there, their petals a sickly pale green."
+      },
+      {
+        "id": 4,
+        "description": "Whispering voices seem to emanate from the ash tree at night, speaking of forgotten rituals and offerings."
+      },
+      {
+        "id": 5,
+        "description": "An old woman tells a story about a young girl who was sacrificed to the ash tree generations ago to ensure a bountiful harvest. She claims the girl's spirit is trapped within the tree."
+      },
+      {
+        "id": 6,
+        "description": "Thorns and brambles seem to grow with unnatural speed and aggression around the ash tree, forming a nearly impenetrable barrier."
+      },
+      {
+        "id": 7,
+        "description": "The air grows noticeably colder and heavier the closer one gets to the ash tree, as if an unseen presence chills the very air."
+      }
+    ],
+    "plotTwist": {
+      "description": "The village elder had been making offerings to the Vaesen to ensure a good harvest, but stopped when his only granddaughter moved away."
+    }
+  }

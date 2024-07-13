@@ -1,0 +1,33 @@
+{
+    "misdeed": "A series of grisly discoveries have left a village nestled in the foothills of a mountain range paralyzed with fear. Bodies, mangled and drained of blood, are found in the outskirts, each bearing strange, claw-like marks that seem almost human.",
+    "solution": "The Vaesen is a Revenant and can be banished by finding its human remains, carrying them over a graveyard wall, and burying them in consecrated ground with a cross on the casket.",
+    "clues": [
+      {
+        "id": 1,
+        "description": "The victims are all individuals who were known to have wronged others, their past sins coming back to haunt the village."
+      },
+      {
+        "id": 2,
+        "description": "The attacks always occur during the darkest hour before dawn, leaving the village shrouded in fear as the sun rises."
+      },
+      {
+        "id": 3,
+        "description": "Witnesses report seeing a shadowy figure with glowing red eyes standing over the victims, but it vanishes when approached."
+      },
+      {
+        "id": 4,
+        "description": "A local historian uncovers a decades-old account of a man wrongly accused of murder, who swore vengeance on the village before his untimely death."
+      },
+      {
+        "id": 5,
+        "description": "The temperature drops noticeably near the locations of the attacks, a chill that seeps into the bones and refuses to be dispelled by fire or sunlight."
+      },
+      {
+        "id": 6,
+        "description": "The villagers discover a hidden message, scratched into the tombstone of the accused man, detailing his plan for revenge from beyond the grave."
+      }
+    ],
+    "plotTwist": {
+      "description": "The village elder, wracked with guilt over his role in the man’s wrongful conviction, has unknowingly provided the Vaesen with sustenance, hoping to appease the vengeful spirit."
+    }
+  }

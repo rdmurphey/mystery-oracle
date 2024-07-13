@@ -1,0 +1,33 @@
+{
+    "misdeed": "A wave of fear washes over a remote village as their sheep begin to disappear from their pastures.  The bodies are found drained of blood, marked with strange scratches, and partially devoured.  Whispers of monstrous birds with glowing eyes terrorizing the village spread like wildfire.",
+    "solution": "The Vaesen are Night Ravens and can be banished by finding their original bodies and burying them in consecrated ground.",
+    "clues": [
+      {
+        "id": 1,
+        "description": "The attacks happen exclusively at night, leaving behind an eerie silence as dawn breaks."
+      },
+      {
+        "id": 2,
+        "description": "The villagers find strange, oily feathers near the sheep carcasses, too large and dark to belong to any known bird."
+      },
+      {
+        "id": 3,
+        "description": "A shepherd claims to have seen an enormous flock of ravens circling in the sky above the village, their eyes glowing red in the moonlight."
+      },
+      {
+        "id": 4,
+        "description": "Local legends tell of cursed souls, denied peaceful rest, who return as demonic ravens to prey on the living."
+      },
+      {
+        "id": 5,
+        "description": "An old map reveals the existence of a forgotten plague pit outside the village, where the bodies of the diseased were hastily buried centuries ago."
+      },
+      {
+        "id": 6,
+        "description": "As the villagers investigate the plague pit, they discover an unsettling number of raven skulls alongside the human remains."
+      }
+    ],
+    "plotTwist": {
+      "description": "A traveling plague doctor, seeking to exploit the superstitions of the villagers, has been using dark rituals to control the Vaesen and drive the community towards despair."
+    }
+  }

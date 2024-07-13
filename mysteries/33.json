@@ -1,0 +1,33 @@
+{
+    "misdeed": "A series of pranks and mishaps plagues a once-prosperous farm. Tools disappear, milk sours overnight, and crops fail, despite the farmer's best efforts. Whispers of a mischievous spirit haunting the barn spread amongst the worried farmhands.",
+    "solution": "The Vaesen is a Nisse and can be driven away by offering it a new piece of clothing, stopping all offerings and gifts, or by offending it, often by soiling its porridge.",
+    "clues": [
+      {
+        "id": 1,
+        "description": "Small, hand-shaped footprints appear in flour spilled on the pantry floor, too small to belong to any human."
+      },
+      {
+        "id": 2,
+        "description": "The farmhands report hearing the faint sound of someone sweeping the barn floor at midnight, but find it spotless when they investigate."
+      },
+      {
+        "id": 3,
+        "description": "The farmer discovers an elaborately braided knot in his horse's mane, one he cannot undo, no matter how hard he tries."
+      },
+      {
+        "id": 4,
+        "description": "A bowl of porridge, left out as an offering for the supposed spirit, is found half-eaten, the spoon neatly placed beside it."
+      },
+      {
+        "id": 5,
+        "description": "An old farmhand recounts tales of a mischievous spirit, small and bearded, who protects those who respect the farm and punishes those who do not."
+      },
+      {
+        "id": 6,
+        "description": "The farmer's daughter claims to have seen a tiny man in a red cap sitting on a bale of hay, watching her with a mischievous glint in his eyes."
+      }
+    ],
+    "plotTwist": {
+      "description": "The farmer's son, jealous of his father's attention and hoping to inherit the farm, has been secretly trying to drive the Vaesen away, unaware that he's making matters worse."
+    }
+  }

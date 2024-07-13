@@ -1,0 +1,33 @@
+{
+    "misdeed": "A once-thriving mining town is now on the brink of collapse. Tunnels cave in with alarming frequency, tremors shake the earth, and miners whisper of a terrifying presence lurking in the depths.",
+    "solution": "The Vaesen is a Giant and can be banished by ringing church bells, raising a cross near its dwelling, or discovering and speaking its true name.",
+    "clues": [
+      {
+        "id": 1,
+        "description": "The tremors seem to originate from the deepest part of the mine, an area where the veins of ore run particularly rich."
+      },
+      {
+        "id": 2,
+        "description": "Miners report hearing earth-shaking roars echoing through the tunnels, followed by an unnatural silence."
+      },
+      {
+        "id": 3,
+        "description": "Strange symbols, too large and ancient to have been carved by human hands, are found on the walls of a newly unearthed cavern."
+      },
+      {
+        "id": 4,
+        "description": "An enormous footprint, pressed deep into the muddy ground, is discovered near the entrance to the collapsed mine shaft."
+      },
+      {
+        "id": 5,
+        "description": "Local legends speak of a slumbering giant who dwells beneath the mountains, angered by the intrusion of the miners."
+      },
+      {
+        "id": 6,
+        "description": "A piece of ancient pottery, depicting a giant being chained beneath the earth, is unearthed in a nearby archaeological dig."
+      }
+    ],
+    "plotTwist": {
+      "description": "The mine's foreman, desperate to increase production and save his job, has unknowingly disturbed the Vaesen's slumber with his reckless excavation."
+    }
+  }

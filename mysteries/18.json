@@ -1,0 +1,33 @@
+{
+    "misdeed": "Brutal murders plague a remote village, each victim seemingly torn apart by a wild animal. The killings coincide with the full moon, fueling rumors of a monstrous beast lurking in the shadows.",
+    "solution": "The Vaesen is a Werewolf and can be killed by being struck with a silver weapon while Broken, freed from its curse by being called by its true name under the light of a full moon, or can break the curse itself by devouring a human baby.",
+    "clues": [
+      {
+        "id": 1,
+        "description": "The villagers whisper of a curse, passed down through generations, that transforms a person into a bloodthirsty beast under the light of the full moon."
+      },
+      {
+        "id": 2,
+        "description": "Tracks found near the crime scenes are a chilling mix of human and animal, suggesting a creature caught between two worlds."
+      },
+      {
+        "id": 3,
+        "description": "Victims bear deep bite marks and claw wounds, far exceeding the capabilities of any known predator in the area."
+      },
+      {
+        "id": 4,
+        "description": "A bloody scrap of cloth, identified as belonging to a reclusive villager, is found near the latest crime scene."
+      },
+      {
+        "id": 5,
+        "description": "The air is thick with the scent of blood and musk, a primal fear gripping the hearts of the villagers as the full moon rises."
+      },
+      {
+        "id": 6,
+        "description": "A local healer discovers a cache of strange herbs and animal bones hidden beneath the floorboards of the suspect's home."
+      }
+    ],
+    "plotTwist": {
+      "description": "The village priest, harboring a dark secret, is the true source of the curse, having made a pact with dark forces to gain power and influence over his flock."
+    }
+  }

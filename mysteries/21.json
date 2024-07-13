@@ -1,0 +1,33 @@
+{
+    "misdeed": "A series of unsettling incidents plagues a once-peaceful village.  Milk curdles overnight, tools break for no reason, and small objects go missing, only to reappear in bizarre places. Villagers whisper of tiny figures seen flitting in the shadows, their eyes glowing with an unnerving light.",
+    "solution": "The Vaesen are Vaettir and can be driven away with any means that would harm a normal human, such as fire or weapons.",
+    "clues": [
+      {
+        "id": 1,
+        "description": "Small, hand-sized footprints appear in dusty corners and on freshly swept floors, too small to belong to any child."
+      },
+      {
+        "id": 2,
+        "description": "Whispering voices, speaking in a language that sounds like rustling leaves and crackling fire, are heard coming from beneath floorboards and behind walls."
+      },
+      {
+        "id": 3,
+        "description": "Offerings of food and milk, left out to appease the creatures, vanish without a trace."
+      },
+      {
+        "id": 4,
+        "description": "A local child claims to have befriended a tiny, toad-like creature living beneath the floorboards, who tells stories of an ancient pact between the village and its unseen inhabitants."
+      },
+      {
+        "id": 5,
+        "description": "The air grows heavy and oppressive in certain areas of the village, as if an unseen presence watches and judges."
+      },
+      {
+        "id": 6,
+        "description": "Ancient symbols, carved into the stones of the oldest buildings, depict small, humanoid figures with glowing eyes, suggesting a long and possibly forgotten history between the village and the Vaesen."
+      }
+    ],
+    "plotTwist": {
+      "description": "The village elder, tasked with maintaining the ancient pact with the Vaesen, has grown old and forgetful, neglecting his duties and unknowingly angering the creatures."
+    }
+  }

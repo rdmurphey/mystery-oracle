@@ -1,0 +1,33 @@
+{
+    "misdeed": "The inhabitants of a secluded valley are plagued by a strange malady. They suffer from vivid hallucinations, bouts of unexplained weeping, and an overwhelming sense of melancholic longing.  Their crops wither, and livestock give birth to stillborn offspring.",
+    "solution": "The Vaesen are Fairies and can be driven away by finding their magical paths and walking them while ringing a church bell and sprinkling holy water.",
+    "clues": [
+      {
+        "id": 1,
+        "description": "The afflicted villagers describe seeing flickering lights and beautiful, ephemeral beings in their dreams and moments of wakefulness."
+      },
+      {
+        "id": 2,
+        "description": "A strange, sweet-smelling pollen fills the air, particularly strong at dawn and dusk."
+      },
+      {
+        "id": 3,
+        "description": "Mushrooms of unnatural hues sprout in a perfect circle near the village well."
+      },
+      {
+        "id": 4,
+        "description": "Local legends speak of a hidden fairy ring deep within the valley, where those who tread lightly might catch a glimpse of the Fae."
+      },
+      {
+        "id": 5,
+        "description": "Children's toys are found inexplicably moved, as if played with during the night."
+      },
+      {
+        "id": 6,
+        "description": "A local musician finds himself compelled to play a haunting, otherworldly melody, one that fills the villagers with both sorrow and a strange sense of yearning."
+      }
+    ],
+    "plotTwist": {
+      "description": "The local midwife, heartbroken over the loss of her own child, unknowingly made a bargain with the Vaesen, offering her grief in exchange for their aid in easing the suffering of others."
+    }
+  }

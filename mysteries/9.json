@@ -1,0 +1,33 @@
+{
+    "misdeed": "The mournful cries of a child echo through a small village at night, but the source of the sound remains elusive. People are plagued by feelings of unease and dread, and some claim to have seen a shadowy figure flitting through the graveyard.",
+    "solution": "The Vaesen is a Myling and can be put to rest by finding its body, burying it in consecrated ground, and giving it someone else’s name.",
+    "clues": [
+      {
+        "id": 1,
+        "description": "The cries seem to be coming from the vicinity of a recently disturbed grave in the local churchyard."
+      },
+      {
+        "id": 2,
+        "description": "Locals whisper tales of a woman who took her own child’s life many years ago, burying it in unconsecrated ground."
+      },
+      {
+        "id": 3,
+        "description": "A chilling wind blows through the village at night, carrying with it the scent of freshly turned earth and decay."
+      },
+      {
+        "id": 4,
+        "description": "A small, child-sized handprint is found etched in the frost on a villager's window."
+      },
+      {
+        "id": 5,
+        "description": "Black feathers, too large to belong to any local bird, are found scattered near the disturbed grave."
+      },
+      {
+        "id": 6,
+        "description": "The mournful cries seem to intensify whenever someone tries to leave the village, as if the unseen presence seeks to prevent them from escaping its torment."
+      }
+    ],
+    "plotTwist": {
+      "description": "The village priest, haunted by a past sin, has accidentally awakened the Vaesen while tending to the gravesite of an unbaptized child he secretly fathered."
+    }
+  }

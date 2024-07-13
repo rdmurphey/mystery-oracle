@@ -1,0 +1,33 @@
+{
+    "misdeed": "Livestock have been found slain in the fields. Their carcasses are mangled and partially devoured, bearing strange burn marks and a corrosive odor.",
+    "solution": "The Vaesen is a Lindworm and can be slain by tricking it into slithering through three separate bonfires.",
+    "clues": [
+      {
+        "id": 1,
+        "description": "Witnesses describe seeing a massive serpent-like creature with shimmering scales and a white mane, its eyes burning with malevolent intelligence."
+      },
+      {
+        "id": 2,
+        "description": "The ground near the slain animals is scorched and barren, as if burned by acid."
+      },
+      {
+        "id": 3,
+        "description": "Local legends speak of a dragon-like creature that dwells in the surrounding hills, hoarding treasure and demanding tribute."
+      },
+      {
+        "id": 4,
+        "description": "A single, shimmering scale, larger than a man's hand, is found near the site of the latest attack."
+      },
+      {
+        "id": 5,
+        "description": "The tracks left behind are unlike those of any known animal, suggesting a creature that moves by rolling or slithering."
+      },
+      {
+        "id": 6,
+        "description": "The air itself feels heavy and oppressive, as if a powerful presence watches from the shadows."
+      }
+    ],
+    "plotTwist": {
+      "description": "A reclusive alchemist has formed a pact with the Vaesen, offering it sacrifices in exchange for its venomous saliva, which he uses in his experiments."
+    }
+  }

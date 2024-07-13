@@ -1,0 +1,33 @@
+{
+    "misdeed": "A string of brutal murders has left a remote village reeling. The victims are found mangled beyond recognition, bearing deep lacerations and as if torn apart by a wild animal. Fear and suspicion run rampant as the full moon approaches.",
+    "solution": "The Vaesen is a Werewolf and can be killed by being struck with a silver weapon while Broken, freed from its curse by being called by its true name under the light of a full moon, or can break the curse itself by devouring a human baby.",
+    "clues": [
+      {
+        "id": 1,
+        "description": "The killings occur sporadically, but always under the light of the full moon, escalating in brutality with each passing month."
+      },
+      {
+        "id": 2,
+        "description": "The villagers whisper of a curse, passed down through generations, that transforms a human into a bloodthirsty beast under the influence of the lunar cycle."
+      },
+      {
+        "id": 3,
+        "description": "Footprints found near the crime scenes suggest a creature with both human and animalistic characteristics, its gait shifting between two-legged and four-legged strides."
+      },
+      {
+        "id": 4,
+        "description": "A local hunter discovers a piece of torn clothing snagged on a branch near one of the crime scenes, identified as belonging to a reclusive but well-respected villager."
+      },
+      {
+        "id": 5,
+        "description": "As the full moon rises, villagers report hearing haunting howls echoing through the night, sending chills down their spines."
+      },
+      {
+        "id": 6,
+        "description": "A silver locket, engraved with a wolf’s head and containing a lock of the suspected villager’s hair, is discovered hidden in the rafters of their home."
+      }
+    ],
+    "plotTwist": {
+      "description": "The village blacksmith, burdened by a dark family secret and fearing he will succumb to the curse himself, has been secretly protecting the villagers from the Vaesen."
+    }
+  }

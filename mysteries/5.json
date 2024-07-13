@@ -1,0 +1,33 @@
+{
+    "misdeed": "A series of unexplained tremors and landslides have begun to plague a mountainous region, striking fear into the hearts of the isolated villages nestled among the peaks.",
+    "solution": "The Vaesen is a Giant and can be banished by ringing church bells, raising a cross near its dwelling, or discovering and speaking its true name.",
+    "clues": [
+      {
+        "id": 1,
+        "description": "Witnesses claim to have seen a figure of immense size silhouetted against the moonlit sky, its eyes glowing like hot coals."
+      },
+      {
+        "id": 2,
+        "description": "Giant footprints, too large to belong to any man or beast, are found near the sites of the disturbances."
+      },
+      {
+        "id": 3,
+        "description": "Ancient tales whisper of a slumbering giant who dwells within the heart of the mountain, angered by the intrusions of men."
+      },
+      {
+        "id": 4,
+        "description": "A shepherd claims that his flock was scattered by a thunderous roar that seemed to shake the very foundations of the mountain."
+      },
+      {
+        "id": 5,
+        "description": "An enormous, crudely-fashioned club is found abandoned near a collapsed mineshaft."
+      },
+      {
+        "id": 6,
+        "description": "The tremors seem to intensify whenever the church bells ring, as if something within the mountain resents the sound."
+      }
+    ],
+    "plotTwist": {
+      "description": "A secretive group of miners has been using explosives to uncover a new vein of ore, unknowingly disturbing the Vaesen's slumber."
+    }
+  }

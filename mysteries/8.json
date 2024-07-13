@@ -1,0 +1,33 @@
+{
+    "misdeed": "Ships passing through a particular stretch of coastline have begun to vanish without a trace, their wreckage never found. The few survivors tell of haunting songs and a chilling presence beneath the waves.",
+    "solution": "The Vaesen is a Mermaid and can be placated with offerings of trinkets and treasures or driven away by the presence of a married man wearing his wedding ring.",
+    "clues": [
+      {
+        "id": 1,
+        "description": "Sailors whisper of a beautiful woman with a fish’s tail who lures ships to their doom with her enchanting voice."
+      },
+      {
+        "id": 2,
+        "description": "Strange, bioluminescent lights dance beneath the water’s surface at night, as if something beckons from the depths."
+      },
+      {
+        "id": 3,
+        "description": "Fish are scarce in the area, and those that are caught are often mangled and bear strange bite marks."
+      },
+      {
+        "id": 4,
+        "description": "A sailor’s cap is found washed ashore, containing a single, iridescent scale and a lock of long, seaweed-tangled hair."
+      },
+      {
+        "id": 5,
+        "description": "The sea seems unnaturally calm and quiet near the site of the disappearances, as if holding its breath."
+      },
+      {
+        "id": 6,
+        "description": "A carved wooden comb is recovered from a piece of driftwood. It is intricately carved with images of fish and mermaids."
+      }
+    ],
+    "plotTwist": {
+      "description": "A young woman, heartbroken after her lover was lost at sea, has unwittingly formed a bond with the Vaesen, believing it holds the key to reuniting her with her beloved."
+    }
+  }

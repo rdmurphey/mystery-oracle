@@ -1,0 +1,33 @@
+{
+    "misdeed": "Ships are being attacked and sunk in a remote archipelago, their hulls crushed and splintered as if by a monstrous creature of the deep. The few survivors tell tales of a creature of immense size and fury, its eyes glowing beneath the waves.",
+    "solution": "The Vaesen is a Sea Serpent and can be destroyed by tricking it into biting its own tail, causing it to sink to the bottom of the sea and dissolve into sludge.",
+    "clues": [
+      {
+        "id": 1,
+        "description": "Fishermen report seeing a massive, serpentine form moving beneath the surface of the water, creating whirlpools and churning the sea."
+      },
+      {
+        "id": 2,
+        "description": "Beached whales and giant squid are found with horrific wounds, their flesh torn and mangled as if by massive claws."
+      },
+      {
+        "id": 3,
+        "description": "Local legends speak of a Kraken, a monstrous sea creature that sleeps beneath the waves, awakening only to wreak havoc."
+      },
+      {
+        "id": 4,
+        "description": "A ship’s mast is found washed ashore, wrapped in massive, barnacle-encrusted chains that have been snapped like thread."
+      },
+      {
+        "id": 5,
+        "description": "The waters around the archipelago seem to boil and churn, even when there is no wind or storm."
+      },
+      {
+        "id": 6,
+        "description": "The air itself feels thick and heavy, as if an ancient, malevolent intelligence observes the surface world from the depths."
+      }
+    ],
+    "plotTwist": {
+      "description": "The local lighthouse keeper, driven mad by isolation and grief after the loss of his family at sea, has used forbidden rituals to awaken the Vaesen, seeking vengeance against the sea itself."
+    }
+  }

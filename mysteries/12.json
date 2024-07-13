@@ -1,0 +1,33 @@
+{
+    "misdeed": "A farm, once prosperous and peaceful, is now plagued by misfortune.  Cows give sour milk, tools break at an alarming rate, and accidents befall the farmhands. The animals are restless, and a palpable air of malice hangs over the homestead.",
+    "solution": "The Vaesen is a Nisse and can be driven away by offering it a new piece of clothing, stopping all offerings and gifts, or by offending it, often by soiling its porridge.",
+    "clues": [
+      {
+        "id": 1,
+        "description": "Small objects go missing and reappear in odd places, as if moved by unseen hands."
+      },
+      {
+        "id": 2,
+        "description": "The farmhands whisper of seeing a small, bearded man in a red cap lurking in the shadows, but he vanishes when approached."
+      },
+      {
+        "id": 3,
+        "description": "The farmer's wife discovers that the milk has been inexplicably replaced with dirt, and the butter churned is filled with stones."
+      },
+      {
+        "id": 4,
+        "description": "Strange symbols, reminiscent of ancient runes, are found etched into the barn door."
+      },
+      {
+        "id": 5,
+        "description": "The farm’s dog refuses to enter the barn, whimpering and cowering at the threshold."
+      },
+      {
+        "id": 6,
+        "description": "A bowl of porridge, left out as an offering, is found overturned, the contents scattered across the floor."
+      }
+    ],
+    "plotTwist": {
+      "description": "The youngest son of the farming family, feeling neglected and resentful, has inadvertently attracted the Vaesen's attention with his negative emotions."
+    }
+  }

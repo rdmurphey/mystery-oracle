@@ -1,0 +1,33 @@
+{
+    "misdeed": "The old church in a once-peaceful village has become a place of dread.  Parishioners are afraid to attend services after a series of disturbing events, including strange noises, objects moving inexplicably, and a general sense of unease within the holy building.",
+    "solution": "The Vaesen is a Church Grim and can be destroyed by finding its remains buried within the church walls, breaking them open, and burning the carcass.",
+    "clues": [
+      {
+        "id": 1,
+        "description": "Villagers report seeing a large, dark dog-like creature with glowing red eyes lurking in the churchyard at night. It vanishes when approached."
+      },
+      {
+        "id": 2,
+        "description": "The church bells toll at odd hours, even when the bellringer swears he hasn't touched the ropes."
+      },
+      {
+        "id": 3,
+        "description": "A faint scratching sound can be heard coming from inside the church walls, particularly at night."
+      },
+      {
+        "id": 4,
+        "description": "The church's old records mention a tradition of burying a live animal within the walls during construction to appease the spirits, but the specific details are lost."
+      },
+      {
+        "id": 5,
+        "description": "A musty, animalistic odor permeates the church, particularly near the altar."
+      },
+      {
+        "id": 6,
+        "description": "A small, hidden alcove in the church wall is discovered, containing a pile of old bones and a tarnished silver collar."
+      }
+    ],
+    "plotTwist": {
+      "description": "The church itself is built upon an ancient pagan burial ground, and the Vaesen was accidentally awakened by recent renovations."
+    }
+  }

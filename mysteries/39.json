@@ -1,0 +1,33 @@
+{
+    "misdeed": "An unnerving quiet has fallen over a region known for its treacherous bogs and marshes. Travelers disappear with alarming regularity, their belongings found abandoned near flickering lights that dance across the desolate landscape.",
+    "solution": "The Vaesen is a Will-o'-the-Wisp and can be put to rest by returning the land it guards to its rightful owner.",
+    "clues": [
+      {
+        "id": 1,
+        "description": "The disappearances coincide with the appearance of strange lights over the marshes, flickering like candles in the distance."
+      },
+      {
+        "id": 2,
+        "description": "Those who have seen the lights describe them as hypnotic and alluring, drawing them closer with an irresistible pull."
+      },
+      {
+        "id": 3,
+        "description": "Local legends warn of mischievous spirits that lead travelers astray, trapping them in the bogs to drown."
+      },
+      {
+        "id": 4,
+        "description": "A search party discovers a walking stick, engraved with the initials of a missing traveler, driven deep into the mud near a cluster of flickering lights."
+      },
+      {
+        "id": 5,
+        "description": "Research into local history reveals a long-forgotten land dispute involving a family who mysteriously disappeared, their property swallowed by the encroaching marsh."
+      },
+      {
+        "id": 6,
+        "description": "As night falls, the investigators notice that the flickering lights seem to converge on a specific area of the marsh, marking the boundaries of the disputed land."
+      }
+    ],
+    "plotTwist": {
+      "description": "A descendant of the family who vanished, unaware of their history or the tragedy that befell them, has returned to the region, unknowingly drawing the Vaesen’s attention."
+    }
+  }

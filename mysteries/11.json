@@ -1,0 +1,33 @@
+{
+    "misdeed": "A series of unsettling events has befallen a village: livestock are found slaughtered, their bodies drained of blood; people report feeling watched, a cold dread gripping their hearts; and strange, bird-like shapes are seen circling in the night sky.",
+    "solution": "The Vaesen are Night Ravens and can be banished by finding their original bodies and burying them in consecrated ground.",
+    "clues": [
+      {
+        "id": 1,
+        "description": "Witnesses describe seeing flocks of unusually large ravens with an oily, almost ethereal quality, their eyes glowing with an eerie red light."
+      },
+      {
+        "id": 2,
+        "description": "The attacks seem to occur most frequently during significant religious holidays, as if the creatures mock the sanctity of the occasions."
+      },
+      {
+        "id": 3,
+        "description": "The air grows heavy and oppressive as night falls, accompanied by an unsettling silence broken only by the occasional, bloodcurdling shriek."
+      },
+      {
+        "id": 4,
+        "description": "Black feathers, strangely weightless and cold to the touch, are found scattered near the sites of the attacks."
+      },
+      {
+        "id": 5,
+        "description": "A local historian discovers records of a plague that ravaged the village centuries ago, the victims hastily buried in a mass grave outside the consecrated graveyard."
+      },
+      {
+        "id": 6,
+        "description": "The village priest notices that the holy water font in the church has turned cloudy and foul, as if tainted by an unholy presence."
+      }
+    ],
+    "plotTwist": {
+      "description": "A graverobber, seeking valuables buried with the dead, has unwittingly disturbed the Vaesen's resting place, unleashing them upon the village."
+    }
+  }

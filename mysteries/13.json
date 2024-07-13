@@ -1,0 +1,33 @@
+{
+    "misdeed": "People are being found dead in the woods, their bodies ravaged and bearing strange bite marks, as if killed by a wild animal. However, the wounds seem almost… human.",
+    "solution": "The Vaesen is a Revenant and can be banished by finding its human remains, carrying them over a graveyard wall, and burying them in consecrated ground with a cross on the casket.",
+    "clues": [
+      {
+        "id": 1,
+        "description": "The attacks always occur at night, and witnesses describe seeing a shadowy figure with glowing eyes lurking near the crime scenes."
+      },
+      {
+        "id": 2,
+        "description": "Locals whisper of a hermit who lived in the woods many years ago, meeting a violent end. They say his spirit still haunts the area, seeking revenge."
+      },
+      {
+        "id": 3,
+        "description": "The air grows noticeably colder near the sites of the attacks, as if an unnatural chill emanates from the ground itself."
+      },
+      {
+        "id": 4,
+        "description": "Footprints discovered near the bodies seem to appear and disappear at random, as if the creature that made them can shift in and out of existence."
+      },
+      {
+        "id": 5,
+        "description": "A tattered piece of clothing, identified as belonging to the long-dead hermit, is found snagged on a branch near one of the crime scenes."
+      },
+      {
+        "id": 6,
+        "description": "Those who venture into the woods at night report hearing whispers carried on the wind, muttering threats and curses in a language they don't recognize."
+      }
+    ],
+    "plotTwist": {
+      "description": "The village outcast, seeking solace and acceptance in the wilderness, has unwittingly formed a bond with the Vaesen, offering it food and companionship."
+    }
+  }

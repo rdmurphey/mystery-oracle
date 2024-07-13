@@ -1,0 +1,33 @@
+{
+    "misdeed": "Travelers have begun to disappear in the mountains, vanishing without a trace on trails once considered safe.  The few who return speak of feeling watched, of an unnatural chill, and of seeing grotesque figures lurking in the shadows.",
+    "solution": "The Vaesen are Trolls and can be driven away by Christian rituals such as placing a cross in their dwelling or uttering holy words inside their homes.",
+    "clues": [
+      {
+        "id": 1,
+        "description": "Witnesses describe seeing strange, misshapen figures lurking in the fog and shadows, their eyes gleaming with an unsettling intelligence."
+      },
+      {
+        "id": 2,
+        "description": "Livestock are found slaughtered and partially devoured, their bones cracked and broken as if by immense strength."
+      },
+      {
+        "id": 3,
+        "description": "Local folklore speaks of trolls that dwell in the mountains, preying on those foolish enough to travel alone at night."
+      },
+      {
+        "id": 4,
+        "description": "A traveler's pack is found abandoned by the trail, containing a half-eaten hunk of bread that smells faintly of moss and decay."
+      },
+      {
+        "id": 5,
+        "description": "The temperature drops sharply in certain areas, even during the day, and the air takes on a heavy, almost suffocating quality."
+      },
+      {
+        "id": 6,
+        "description": "Strange, guttural voices are sometimes heard echoing through the valleys, speaking in a language that chills the blood."
+      }
+    ],
+    "plotTwist": {
+      "description": "A group of travelers, seeking shelter from a storm, unknowingly built a fire on sacred troll ground, awakening the Vaesen from their slumber."
+    }
+  }

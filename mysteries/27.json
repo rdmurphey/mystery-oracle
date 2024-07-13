@@ -1,0 +1,33 @@
+{
+    "misdeed": "A series of bizarre livestock deaths has left the inhabitants of a remote farm terrified. Animals are found drained of blood, their carcasses twisted at unnatural angles and bearing strange, acidic burn marks.",
+    "solution": "The Vaesen is a Lindworm and can be slain by tricking it into slithering through three separate bonfires.",
+    "clues": [
+      {
+        "id": 1,
+        "description": "The killings occur only on clear nights, when the moon is full and the stars are bright."
+      },
+      {
+        "id": 2,
+        "description": "The ground near the slain animals is scorched and barren, the vegetation withered and blackened."
+      },
+      {
+        "id": 3,
+        "description": "A single, massive track is found near the bodies, suggesting a creature of immense size and weight."
+      },
+      {
+        "id": 4,
+        "description": "Local legends speak of a fire-breathing serpent that dwells in the nearby mountains, demanding tribute from those who live in its domain."
+      },
+      {
+        "id": 5,
+        "description": "A shepherd claims to have seen a creature of immense size silhouetted against the moonlit sky, its eyes glowing with an unnatural light."
+      },
+      {
+        "id": 6,
+        "description": "An ancient cave painting, hidden deep within a nearby mountain pass, depicts a fearsome serpent with shimmering scales and a white mane."
+      }
+    ],
+    "plotTwist": {
+      "description": "A young farmhand, ostracized for his interest in ancient lore and forbidden magic, has unwittingly drawn the Vaesen's attention with his rituals, believing he can control it."
+    }
+  }

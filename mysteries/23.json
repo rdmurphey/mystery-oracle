@@ -1,0 +1,33 @@
+{
+    "misdeed": "A series of strange occurrences has left the inhabitants of a riverside village on edge.  Unexplained hoofprints appear overnight, leading to and from the water's edge, and travelers report fleeting glimpses of a majestic white horse that vanishes like mist.",
+    "solution": "The Vaesen is a Brook Horse and can be banished by riding it across plowed ground in the shape of a sun cross or leading it into a stable marked with six Christian symbols.",
+    "clues": [
+      {
+        "id": 1,
+        "description": "The hoofprints are abnormally large, unlike those of any horse known in the area."
+      },
+      {
+        "id": 2,
+        "description": "The river seems to flow unnaturally fast, its waters churning and swirling, even on calm days."
+      },
+      {
+        "id": 3,
+        "description": "A local fisherman claims to have snagged a silver bridle in his net, but it burned his hand with an icy cold and slipped back into the depths."
+      },
+      {
+        "id": 4,
+        "description": "Children report hearing a horse whinnying from the river at night, its voice both beautiful and terrifying."
+      },
+      {
+        "id": 5,
+        "description": "The water level in the river drops significantly during the night, revealing strange symbols etched into the riverbed."
+      },
+      {
+        "id": 6,
+        "description": "A local historian discovers a legend about a water spirit who takes the form of a horse, luring people to their deaths in the river's depths."
+      }
+    ],
+    "plotTwist": {
+      "description": "A young woman, mourning the death of her beloved horse, unknowingly summoned the Vaesen with her grief, seeking a replacement for her lost companion."
+    }
+  }

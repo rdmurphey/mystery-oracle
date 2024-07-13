@@ -1,0 +1,33 @@
+{
+    "misdeed": "Travelers in a desolate, marshy region report being lured off the path by flickering lights, only to find themselves hopelessly lost and disoriented.",
+    "solution": "The Vaesen is a Will-o'-the-Wisp and can be put to rest by returning the land it guards to its rightful owner.",
+    "clues": [
+      {
+        "id": 1,
+        "description": "Witnesses describe seeing dancing lights of various colors, often blue, green, or white, hovering over the marshes at night."
+      },
+      {
+        "id": 2,
+        "description": "Local legends tell of restless spirits trapped between worlds, their souls unable to find peace, who lure travelers to their deaths."
+      },
+      {
+        "id": 3,
+        "description": "Compasses and other navigational tools malfunction erratically in the vicinity of the lights, spinning wildly or pointing in the wrong direction."
+      },
+      {
+        "id": 4,
+        "description": "The ground near where the lights appear is often soft and treacherous, swallowing those who stray too close."
+      },
+      {
+        "id": 5,
+        "description": "Those who claim to have seen the lights up close speak of feeling an unnatural chill and hearing whispers carried on the wind."
+      },
+      {
+        "id": 6,
+        "description": "Research into local history reveals a long-standing land dispute, with accusations of deceit and foul play leading to the disappearance of one of the involved parties."
+      }
+    ],
+    "plotTwist": {
+      "description": "A group of children, playing a prank on a superstitious traveler, accidentally summon the Vaesen while mimicking the folklore they've heard about the marsh."
+    }
+  }

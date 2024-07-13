@@ -1,0 +1,33 @@
+{
+    "misdeed": "A string of unsettling incidents plague a small town: people are driven to fits of rage or melancholy; accidents occur with alarming frequency; and whispers of deals with a dark entity circulate in hushed tones.",
+    "solution": "The Vaesen is a Spertus, and it can only be removed by a ritualistic sacrifice of a dozen souls or by the afflicted devoting their life to the Church.",
+    "clues": [
+      {
+        "id": 1,
+        "description": "Those affected by the strange occurrences often speak of a small, insect-like creature that whispers promises of power, wealth, or love in their ear."
+      },
+      {
+        "id": 2,
+        "description": "A strange compulsion drives people to seek out a particular antique snuff box, believing it holds the key to their desires."
+      },
+      {
+        "id": 3,
+        "description": "Those who succumb to the entity's influence exhibit increasingly erratic behavior, their bodies often marked with unusual blemishes or deformities."
+      },
+      {
+        "id": 4,
+        "description": "A local shopkeeper claims to have unknowingly purchased a cursed item from a traveling merchant, one that seems to bring misfortune to all who possess it."
+      },
+      {
+        "id": 5,
+        "description": "The air around those affected by the entity feels heavy and charged, as if an unseen presence feeds on their desperation."
+      },
+      {
+        "id": 6,
+        "description": "A faint, sulfurous odor seems to cling to those who have made bargains with the entity, growing stronger with each passing day."
+      }
+    ],
+    "plotTwist": {
+      "description": "The town's seemingly benevolent doctor is secretly the third owner of the Vaesen, using its power to manipulate his patients and maintain control over the community."
+    }
+  }

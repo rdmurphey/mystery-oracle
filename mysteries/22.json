@@ -1,0 +1,33 @@
+{
+    "misdeed": "A strange illness has befallen the livestock of a small village nestled near a sprawling forest.  Animals are found trembling, their fur falling out, and their bodies covered in strange welts. Whispers of a vengeful spirit haunting the woods spread fear among the villagers.",
+    "solution": "The Vaesen is an Ash Tree Wife and can be destroyed by burning or cutting down the ash tree it inhabits.",
+    "clues": [
+      {
+        "id": 1,
+        "description": "The sick animals refuse to drink from a specific stream that flows down from the nearby forest."
+      },
+      {
+        "id": 2,
+        "description": "A local herbalist discovers traces of an unknown plant toxin in the animals' feed, one that smells faintly of decaying wood and wildflowers."
+      },
+      {
+        "id": 3,
+        "description": "The woodsmen speak of an ancient, imposing ash tree deep within the forest, a place they avoid out of superstition."
+      },
+      {
+        "id": 4,
+        "description": "A young girl claims to have seen a beautiful woman with skin like bark weeping beneath the ash tree, surrounded by sick animals."
+      },
+      {
+        "id": 5,
+        "description": "The ground around the ash tree is littered with animal bones, and the air hangs heavy with the scent of decay and fear."
+      },
+      {
+        "id": 6,
+        "description": "The villagers discover an old offering bowl hidden among the roots of the ash tree, containing a lock of golden hair and a withered flower."
+      }
+    ],
+    "plotTwist": {
+      "description": "A young shepherd, distraught over the loss of his favorite sheepdog, unknowingly made a pact with the Vaesen, offering his own blood in exchange for the animal's return."
+    }
+  }
